@@ -1,2 +1,4 @@
 # maviz-hf
- Mérési adatok vizuális elemzése házifeladat
+Záróvizsgák beosztásának vizsgálata
+
+Készítette: Rancz Máté
